@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning frameworks
 - 📫 How to reach me: [connect@harshvs.com](mailto:connect@harshvs.in)
 - 📧 Check out my [portfolio website](https://harshvardhan-singh.web.app) to know more!
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/they
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvs99&show_icons=true&theme=dracula" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvs99&show_icons=true&theme=dracula" /></p> -->
